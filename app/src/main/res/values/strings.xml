@@ -1,0 +1,8 @@
+<resources>
+    <string name="hello_world">Hello World!</string>
+    <string name="app_name">MyChatAppV2</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
